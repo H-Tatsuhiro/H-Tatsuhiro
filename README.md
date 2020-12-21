@@ -7,6 +7,6 @@
   <ul type="disc">
   <li>Computer Science <br>  ... [Competitive Programming] Competition -> (AtCoder, Codeforces, TopCoder) </li><br>
   <li>Data Science <br> ... [Machine Learning] Competition -> (Kaggle, SIGNATE) </li><br>
-  <li>Quantum Computing</li>
+  <li>Quantum Computing <br> ... [Competitive Programmig & Machine Learning] by Qiskit, Q#</li>
   </ul>
 </p>
