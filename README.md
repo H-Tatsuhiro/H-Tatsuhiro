@@ -1,6 +1,6 @@
 ## Hello!  (=Ф△Ф=)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Tatsuhiro&hide=css,html&langs_count=7">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Tatsuhiro&hide=css,html&langs_count=7&theme=midnight-purple">
 
 <p>
   <h3>🌱 Currently learning</h3>
