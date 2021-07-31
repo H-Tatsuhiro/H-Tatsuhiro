@@ -1,13 +1,11 @@
 ## Hello!  (=Ф△Ф=)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Tatsuhiro&hide=css,html&langs_count=7&theme=midnight-purple">
-
 <p>
-  <h3>🌱 Currently learning</h3>
+  <h3>🌱 Currently Activity of Programming</h3>
   <ul type="disc">
-  <li>Computer Science <br>  ... [Competitive Programming] -> (AtCoder, Codeforces, TopCoder) by C++, Rust</li><br>
-  <li>Data Science <br> ... [Machine Learning] -> (Kaggle, SIGNATE) by Python</li><br>
-  <li>Quantum Computing <br> ... [Competitive Programmig & Machine Learning] by Q#, Python(Qiskit) </li><br>
-  <li>Web Development ... [Application & Network] by Typescript(React/Node), Go, PHP</li>
+  <li>Computer Science by C++, Rust [Competition: AtCoder, Codeforces, TopCoder]</li><br>
+  <li>Data Science by Python, R [Competition: Kaggle, SIGNATE]</li><br>
+  <li>Quantum Computing by Q#, Python(IBM Qiskit, Fixstars Amplify, Blueqat) </li><br>
+  <li>Web Development by Typescript, Rust, Go, PHP</li>
   </ul>
 </p>
