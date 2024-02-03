@@ -1,11 +1,11 @@
 ## Hello!  (=Ф△Ф=)
 
 <p>
-  <h3>🌱 Currently Activity of Programming</h3>
+  <h3>🌱 Recent Activity</h3>
   <ul type="disc">
-  <li>Computer Science by C++, Rust [Competition: AtCoder, Codeforces, TopCoder]</li><br>
-  <li>Data Science by Python [Competition: Kaggle, SIGNATE]</li><br>
-  <li>Quantum Computing by Q#, Python(IBM Qiskit, Fixstars Amplify) </li><br>
-  <li>Web Development by Typescript, Rust, Go</li>
+    <li>Competitive Programming [Lang: C++, Rust]</li><br>
+    <li>Data science Competition [Lang: Python]</li><br>
+    <li>Quantum Computing by [Lang: Python(IBM Qiskit, Fixstars Amplify)]</li><br>
+    <li>Web application Development [Lang: Typescript, Rust, Go]</li>
   </ul>
 </p>
